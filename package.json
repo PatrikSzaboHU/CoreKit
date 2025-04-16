@@ -4,7 +4,7 @@
   "description": "A library full of useful and common functions and algorithms.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "repository": {
     "type": "git",
@@ -36,5 +36,8 @@
   "bugs": {
     "url": "https://github.com/PatrikSzaboHU/CoreKit/issues"
   },
-  "homepage": "https://github.com/PatrikSzaboHU/CoreKit#readme"
+  "homepage": "https://github.com/PatrikSzaboHU/CoreKit#readme",
+  "devDependencies": {
+    "vitest": "^3.1.1"
+  }
 }
