@@ -1,0 +1,40 @@
+{
+  "name": "corekit",
+  "version": "1.0.0",
+  "description": "A library full of useful and common functions and algorithms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrikSzaboHU/CoreKit.git"
+  },
+  "keywords": [
+    "javascript",
+    "utility",
+    "utilities",
+    "functions",
+    "helpers",
+    "algorithms",
+    "snippets",
+    "common",
+    "reusable",
+    "library",
+    "toolkit",
+    "core",
+    "code",
+    "essentials",
+    "logic",
+    "js",
+    "standard",
+    "dry",
+    "corekit"
+  ],
+  "author": "Patrik Szabó",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PatrikSzaboHU/CoreKit/issues"
+  },
+  "homepage": "https://github.com/PatrikSzaboHU/CoreKit#readme"
+}
